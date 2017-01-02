@@ -1,0 +1,10 @@
+{
+  "name": "electron-is",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/delvedor/electron-is",
+  "version": "2.4.0",
+  "global": true,
+  "dependencies": {},
+  "globalDependencies": {
+  }
+}
